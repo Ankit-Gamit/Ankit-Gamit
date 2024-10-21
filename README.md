@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Feels empty here, Find me on <a href="https://gitlab.com/Ankit-Gamit">Gitlab</a>
+Feels empty here, Find me on <a href="https://gitlab.com/Ankit-Gamit">[Gitlab](https://img.shields.io/badge/just%20the%20message-fd6a26)</a>
 
 <!--
 **Ankit-Gamit/Ankit-Gamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
