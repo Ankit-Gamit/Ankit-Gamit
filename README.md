@@ -2,6 +2,8 @@
 
 Feels empty here, Find me on <a href="https://gitlab.com/Ankit-Gamit">Gitlab</a>
 
+![Logo](https://images.ctfassets.net/r9o86ar0p03f/wm.svg/b5b93fd2b77272d076a310d0ba672859/wm.svg?fm=webp&w=300&h=200)
+
 <!--
 **Ankit-Gamit/Ankit-Gamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
