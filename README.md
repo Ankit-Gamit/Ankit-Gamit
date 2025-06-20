@@ -51,7 +51,7 @@ A third-person zombie survival game where the goal is to survive as long as poss
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/ankit-gamit-a89717350/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/that_game.dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankit_game.dev/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnkitGamit28) 
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ankitgg28) 
 [![X](https://img.shields.io/badge/X-2C2C2C?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitgg_) 
